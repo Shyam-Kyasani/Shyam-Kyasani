@@ -1,7 +1,7 @@
 👋 Hello, I'm Shyam Sunder Kyasani!
 
 - 🎓 B.Tech in Electronics and Communication Engineering
-🔍 Aspiring Data Analyst| Data Engineer
+- 🔍 Aspiring Data Analyst| Data Engineer
 📊 Proficient in Python, SQL, Machine Learning, and Data Analysis
 💡 Passionate about Machine Learning, Deep Learning 
 🚀 Currently Exploring: AWS Sagemaker, Apache Airflow, ETL Pipelines, and NLP
